@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Anthony Scotti
+	email = amscotti@users.noreply.github.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
